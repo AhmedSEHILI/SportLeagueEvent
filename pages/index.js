@@ -14,7 +14,6 @@ import Sponsors from './Sponsors'
 
 export default function Home() {
   return (
-    
     <div className=''>
        <Hm />
        <About />
