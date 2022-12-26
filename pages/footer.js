@@ -8,7 +8,8 @@ const Footer = () => {
                 A call for ambitious <br/>thirsty spoardic tech-nerds.
                     {/* ACME Industries Ltd. <br/>Providing reliable tech since 1992 */}
                 </p> 
-                <p className="lg:text-[15px] md:text-[14px] sm:text-[12px] text-[10px]">Copyright © 2022 - All right reserved</p>
+                <p className="lg:text-[15px] md:text-[14px] sm:text-[12px] text-[10px]">Realised by SEHLI Ahmed 2022</p>
+                {/* Copyright © 2022 - All right reserved */}
             </div> 
             <div>
                 <div className="grid grid-flow-col gap-4">
