@@ -1,1 +1,1 @@
-SPORTECH is a collaborative event between CSE and the Ministry of Youth and Sports, that will mainly focus on the relationship between sports and new technologies. This event consists of a conferences about new technologies applied in the world of sports, and a 2 day hackathon about a major problem related to this domain. Winners will be provided with the necessary materiels so they can develop and work on their solution, with the possibility of being implemented in the Ministy's upcoming sporting events!
+
